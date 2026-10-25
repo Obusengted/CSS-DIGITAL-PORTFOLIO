@@ -2,7 +2,7 @@
 
 A personal portfolio website built with HTML, CSS and JavaScript. It houses my reflective writing, CV, project showcases, skills, application letters and professional email, and is hosted on GitHub Pages.
 
-**Live site:** https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/
+**Live site:** https://obusengted.github.io/CSS-DIGITAL-PORTFOLIO/
 *(Replace this link with your GitHub Pages address after publishing.)*
 
 ---
